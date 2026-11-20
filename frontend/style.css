@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+    
+}
+
+.lobby-container {
+    background: white;
+    padding: 30px;
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.input-section {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#playerName {
+    flex: 2; /* Ye box thoda bada rahega */
+}
+
+#playerLevel {
+    flex: 1; /* Ye box chota rahega */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* List Items (Players) ka design */
+li {
+    background: #f0f0f0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    list-style: none; /* Bullet points hata diye */
+}
+
+.player-info {
+    float: right;
+    color: gray;
+}

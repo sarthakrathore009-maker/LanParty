@@ -5,11 +5,11 @@ import java.net.*;
 
 public class AnnouncementFromServer {
 
-    public static void showLobbyToEach() {
+    public static synchronized void showLobbyToEach() {
 
         for (Socket soc : GameServerTest.sockets.values()) {
             try {
-                
+
                 DataOutputStream dout = new DataOutputStream(soc.getOutputStream());
                 dout.writeUTF("\n\n\n");
                 dout.flush();
@@ -21,6 +21,7 @@ public class AnnouncementFromServer {
 
                 }
             } catch (Exception e) {
+                System.out.println("Error Announcment");
             }
 
         }

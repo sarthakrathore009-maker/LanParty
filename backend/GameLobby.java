@@ -1,10 +1,10 @@
 package backend;
 
-import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class GameLobby {
 
-    public static HashMap<Integer, Player> LP = new HashMap<>();
+    public static ConcurrentHashMap<Integer, Player> LP = new ConcurrentHashMap<>();
 
     public void addLobby(Player P) {
 

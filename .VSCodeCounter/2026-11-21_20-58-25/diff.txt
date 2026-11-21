@@ -1,0 +1,54 @@
+Date : 2026-11-21 20:58:25
+Directory : c:\Users\sarth\Desktop\LanParty\frontend
+Total : 24 files,  -40 codes, 26 comments, -22 blanks, all -36 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| PostCSS    |          1 |         50 |          1 |         10 |         61 |
+| JavaScript |          1 |         40 |         20 |         17 |         77 |
+| HTML       |          1 |         25 |          5 |          5 |         35 |
+| Java       |         21 |       -155 |          0 |        -54 |       -209 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         24 |        -40 |         26 |        -22 |        -36 |
+| . (Files)                                                             |          8 |        287 |         26 |         85 |        398 |
+| ..                                                                    |         16 |       -327 |          0 |       -107 |       -434 |
+| ..\backend                                                            |         16 |       -327 |          0 |       -107 |       -434 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                              | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\sarth\Desktop\LanParty\backend\AnnouncementFromServer.class  | Java       |        -17 |          0 |         -3 |        -20 |
+| c:\Users\sarth\Desktop\LanParty\backend\AnnouncementFromServer.java   | Java       |        -19 |          0 |        -10 |        -29 |
+| c:\Users\sarth\Desktop\LanParty\backend\ClientHandler.class           | Java       |        -19 |          0 |          0 |        -19 |
+| c:\Users\sarth\Desktop\LanParty\backend\ClientHandler.java            | Java       |        -74 |          0 |        -37 |       -111 |
+| c:\Users\sarth\Desktop\LanParty\backend\ClientHandlerFor.class        | Java       |        -10 |          0 |          0 |        -10 |
+| c:\Users\sarth\Desktop\LanParty\backend\GameLobby.class               | Java       |        -18 |          0 |         -1 |        -19 |
+| c:\Users\sarth\Desktop\LanParty\backend\GameLobby.java                | Java       |        -16 |          0 |        -11 |        -27 |
+| c:\Users\sarth\Desktop\LanParty\backend\GameServer.class              | Java       |        -10 |          0 |          0 |        -10 |
+| c:\Users\sarth\Desktop\LanParty\backend\GameServer.java               | Java       |        -37 |          0 |        -21 |        -58 |
+| c:\Users\sarth\Desktop\LanParty\backend\GameServerTest.class          | Java       |        -21 |          0 |          0 |        -21 |
+| c:\Users\sarth\Desktop\LanParty\backend\LanPartyApp.class             | Java       |        -15 |          0 |         -1 |        -16 |
+| c:\Users\sarth\Desktop\LanParty\backend\LanPartyApp.java              | Java       |        -19 |          0 |        -15 |        -34 |
+| c:\Users\sarth\Desktop\LanParty\backend\ManagerForClientHandler.class | Java       |        -15 |          0 |          0 |        -15 |
+| c:\Users\sarth\Desktop\LanParty\backend\Player.class                  | Java       |         -8 |          0 |          0 |         -8 |
+| c:\Users\sarth\Desktop\LanParty\backend\Player.java                   | Java       |        -13 |          0 |         -8 |        -21 |
+| c:\Users\sarth\Desktop\LanParty\backend\ReaderServer.class            | Java       |        -16 |          0 |          0 |        -16 |
+| c:\Users\sarth\Desktop\LanParty\frontend\GameClient.class             | Java       |         10 |          0 |          0 |         10 |
+| c:\Users\sarth\Desktop\LanParty\frontend\GameClient.java              | Java       |         94 |          0 |         53 |        147 |
+| c:\Users\sarth\Desktop\LanParty\frontend\GameClientTest.class         | Java       |         22 |          0 |          0 |         22 |
+| c:\Users\sarth\Desktop\LanParty\frontend\ReaderClient.class           | Java       |         20 |          0 |          0 |         20 |
+| c:\Users\sarth\Desktop\LanParty\frontend\WriterClient.class           | Java       |         26 |          0 |          0 |         26 |
+| c:\Users\sarth\Desktop\LanParty\frontend\index.html                   | HTML       |         25 |          5 |          5 |         35 |
+| c:\Users\sarth\Desktop\LanParty\frontend\script.js                    | JavaScript |         40 |         20 |         17 |         77 |
+| c:\Users\sarth\Desktop\LanParty\frontend\style.css                    | PostCSS    |         50 |          1 |         10 |         61 |
+| Total                                                                 |            |        -40 |         26 |        -22 |        -36 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+

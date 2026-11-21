@@ -22,19 +22,20 @@ class GameServerTest implements Runnable {
                 System.out.println("Connected");
 
                 Player P = new Player();
-                ClientHandlerFor CHF = new ClientHandlerFor();
+                ClientHandler CH = new ClientHandler(soc, L, counter, P);
                 sockets.put(counter, soc);
-                CHF.setFor(soc,L,counter,P);
-
-                
+                Thread T = new Thread(CH);
+                T.start();
 
                 counter++;
 
             }
+
         }
 
         catch (Exception e) {
             System.out.println("Client handler error!!");
+
 
         }
 

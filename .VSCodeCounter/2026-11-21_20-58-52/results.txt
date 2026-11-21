@@ -1,0 +1,35 @@
+Date : 2026-11-21 20:58:52
+Directory : c:\Users\sarth\Desktop\LanParty\frontend
+Total : 8 files,  287 codes, 26 comments, 85 blanks, all 398 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Java       |          5 |        172 |          0 |         53 |        225 |
+| PostCSS    |          1 |         50 |          1 |         10 |         61 |
+| JavaScript |          1 |         40 |         20 |         17 |         77 |
+| HTML       |          1 |         25 |          5 |          5 |         35 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                          | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                             |          8 |        287 |         26 |         85 |        398 |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                      | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\sarth\Desktop\LanParty\frontend\GameClient.class     | Java       |         10 |          0 |          0 |         10 |
+| c:\Users\sarth\Desktop\LanParty\frontend\GameClient.java      | Java       |         94 |          0 |         53 |        147 |
+| c:\Users\sarth\Desktop\LanParty\frontend\GameClientTest.class | Java       |         22 |          0 |          0 |         22 |
+| c:\Users\sarth\Desktop\LanParty\frontend\ReaderClient.class   | Java       |         20 |          0 |          0 |         20 |
+| c:\Users\sarth\Desktop\LanParty\frontend\WriterClient.class   | Java       |         26 |          0 |          0 |         26 |
+| c:\Users\sarth\Desktop\LanParty\frontend\index.html           | HTML       |         25 |          5 |          5 |         35 |
+| c:\Users\sarth\Desktop\LanParty\frontend\script.js            | JavaScript |         40 |         20 |         17 |         77 |
+| c:\Users\sarth\Desktop\LanParty\frontend\style.css            | PostCSS    |         50 |          1 |         10 |         61 |
+| Total                                                         |            |        287 |         26 |         85 |        398 |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+

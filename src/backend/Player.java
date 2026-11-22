@@ -1,6 +1,5 @@
 package backend;
 
-
 public class Player {
     
     String name;
